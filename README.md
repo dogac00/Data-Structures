@@ -1,2 +1,2 @@
-# Defining-a-Binary-Tree
-I will define a binary tree using Python.
+# Binary-Search-Tree
+The implementation of a Binary Search Tree with Python 3.
