@@ -55,5 +55,6 @@ class Node(object):
   def traverseInOrder(self):
     if(self.left):
       self.left.traverseInOrder()
+    print(self.data)
     if(self.right):
       self.right.traverseInOrder()
