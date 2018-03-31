@@ -1,6 +1,6 @@
-from BinarySearchTree.node import Node
+from Defining-a-Binary-Tree import Node
 
-class binarySearchTree(object):
+class BinarySearchTree(object):
   
   def __init__(self):
     self.root = None
